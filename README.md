@@ -12,7 +12,7 @@ I created this code to practice integration with github and visual studio code.
 # Development Environment
 
 * Visual Studio Code
-* Python
+* Python 3.9.0
 * Git
 
 # Useful Websites
