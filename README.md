@@ -15,6 +15,5 @@ I created this code to practice integration with github and visual studio code. 
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [GitHub](https://github.com/)
+* [Pluralsight gitignore Tutorial](https://www.pluralsight.com/guides/how-to-use-gitignore-file)
