@@ -1,10 +1,8 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
 This is your basic Hello World python code.
 
-I created this code to practice integration with github and visual studio code.
+I created this code to practice integration with github and visual studio code.  This also was my first experience using a Virtual Environment as well as a .gitignore file.
 
 
 [Software Demo Video](http://youtube.link.goes.here)
